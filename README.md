@@ -175,10 +175,9 @@ Networkwalks-Cybersecurity-Week-2/
 │   ├── PM5_Scan_Results.txt
 │   ├── PM5_Final_Topology.pdf
 │   └── Screenshots/
+    └── Report.pdf
 │
-└── Reports/
-    └── W2-PM-FINAL-Report.pdf
-```
+ 
 
 ## 🎓 09. LEARNING OUTCOMES
 
