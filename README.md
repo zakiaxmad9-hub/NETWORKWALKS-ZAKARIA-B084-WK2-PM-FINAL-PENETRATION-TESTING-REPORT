@@ -201,21 +201,12 @@ No unauthorized exploitation was performed.
 
 ---
 
-## 👨‍💻 ABOUT THE AUTHOR
+ 👨‍💻 ABOUT THE AUTHOR
 
-### Zakaria Ahmed Barre
+ Zakaria Ahmed Barre
 
 **Cybersecurity Master's Student | Aspiring Security Engineer**
 
 Interested in Network Security, Security Engineering, Ethical Hacking, and Cybersecurity Research.
-
-**Training Program:** Networkwalks  
-**Project:** Cybersecurity – Week 02
-
----
-
-<p align="center">
-  <b>LEARN • PRACTICE • SECURE • GROW</b>
-  <br/>
-  <i>Building practical cybersecurity skills through hands-on learning.</i>
-</p>
+Training Program: Networkwalks  
+Project:Cybersecurity – Week 02
